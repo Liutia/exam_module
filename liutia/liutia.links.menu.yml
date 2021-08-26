@@ -1,0 +1,4 @@
+liutia.default_controller_build:
+  title: 'EXAMS'
+  route_name: liutia.default_controller_build
+  menu_name: main

@@ -1,0 +1,5 @@
+name: 'liutia'
+type: module
+description: 'E.X.A.M'
+core_version_requirement: ^9.0
+package: 'LIUTIA'

@@ -1,0 +1,8 @@
+
+liutia.default_controller_build:
+  path: '/liutia/exam'
+  defaults:
+    _form: '\Drupal\liutia\Form\LiutiaForm'
+    _title: 'E.X.A.M'
+  requirements:
+    _permission: 'access content'
